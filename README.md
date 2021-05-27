@@ -1,14 +1,15 @@
 # Car-Rental-System
+
+### _Abstract:_ 
+   The project is designed to help people utilize transport effectively. In recent times cars have become most convenient modes of transportation. Our Car rental system helps in making this an easier, hassle-free and enjoyable experience to acquire and use a car as per ones needs. A person can book a car specifically for his travel time, co-travelers and the nature of travel. The rental system traverses from designing a database to understanding business concept and above all to make this an easy to adapt system for various travelling needs.
 -----------------------------------------------------------------------------------------------------------
-# _Abstract:_ 
-  The project is designed to help people utilize transport effectively. In recent times cars have become most convenient modes of transportation. Our Car rental system helps in making this an easier, hassle-free and enjoyable experience to acquire and use a car as per ones needs. A person can book a car specifically for his travel time, co-travelers and the nature of travel. The rental system traverses from designing a database to understanding business concept and above all to make this an easy to adapt system for various travelling needs.
-  
-# _MODULES_
-  • Car Database Management
-  • Booking Management
-  • Contact Us
-  • Login
-# _Module Specification_
+### _MODULES_
+  • Car Database Management 
+  • Booking Management  
+  • Contact Us  
+  • Login 
+  -----------------------------------------------------------------------------------------------------------
+### _Module Specification_
    **1.Car Database Management**
     Admin
     ➔ Add Car:
@@ -48,6 +49,13 @@
       User
       ➔ Register to the portal
       ➔ Login to the portal to book car
-      
-      
-# Developed By : _Prathamesh Gaste,Abhishek Bhagat,Rohan Ghatage,Shreyas Ghodake,Omkar Gurav._
+ -----------------------------------------------------------------------------------------------------------
+ ## Screenshots
+**User Landing Page :**
+![1](https://user-images.githubusercontent.com/55710267/119817621-d2f8d380-bf0b-11eb-91bb-99e05c27c54a.png) 
+
+**Admin Panel:**
+![4](https://user-images.githubusercontent.com/55710267/119817764-fb80cd80-bf0b-11eb-9d1f-678a4e9a9f24.png)
+-----------------------------------------------------------------------------------------------------------   
+##### Developed By : _Prathamesh Gaste,Abhishek Bhagat,Rohan Ghatage,Shreyas Ghodake,Omkar Gurav._
+-----------------------------------------------------------------------------------------------------------
